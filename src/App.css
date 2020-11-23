@@ -1,8 +1,8 @@
 .App{
   background-color: black;
   color: white;
-  margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
+  margin-left: 220px; /* Same as the width of the sidenav */
+  font-size: 26px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
 .sideNavbar{
@@ -15,6 +15,7 @@
   background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
+  padding-left: 5%;
 }
 
 .textBoxContainer{
@@ -40,7 +41,7 @@
 .image{
   width:30%;
   height:35vh;
-  margin-top: 5%;
+  margin-top: 2%;
   margin-left: 5%;
 
 }
